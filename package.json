@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Misha1204/NodeJs-Learning/issues"
   },
-  "homepage": "https://github.com/Misha1204/NodeJs-Learning#readme"
+  "homepage": "https://github.com/Misha1204/NodeJs-Learning#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
