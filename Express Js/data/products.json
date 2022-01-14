@@ -1,16 +1,1 @@
-[
-    {
-        "id": "135468466",
-        "title": "Harry Potter and the Sorcerer's Stone",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg",
-        "description": "This is the best book ever!",
-        "price": "34"
-    },
-    {
-        "id": "68746413651",
-        "title": "Harry Potter and the Chamber of Secrets",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91OINeHnJGL.jpg",
-        "description": "This is the second best book ever!",
-        "price": "31"
-    }
-]
+[]
